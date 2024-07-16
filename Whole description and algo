@@ -1,0 +1,37 @@
+                                                                                                            SLIP
+                                                                                                 (Sign Language Interpretation)
+Idea pitching source- This project was developed with the Idea of
+helping the deaf and mute people with advancing tech of artificial￾intelligence. This project was derived from my older project of Facial-recognition
+Which works to detect the face from the frame and signifies the result
+accordingly . It was also able to detect the number of faces in particular
+single frame. After that We wanted to learn more on this field and explore what are
+the different things we can achieve from it.With the motive of helping
+people “SLIP” was created that includes enhanced tech like deep￾learning and NLP(natural language processing). Sources of learning- We have used many platforms that helped us learn
+from our mistakes done in the project. After every trial we made our
+code more and more accurate.The videos that helped to learn more
+about Hand recognition and deep-learning are- https://youtu.be/pDXdlXlaCco?si=ThpEG-65xyRWqr4f
+This video was used to get the base knowledge and building logic of the
+code. Although none of the idea or code were used of the video but the
+basics of our idea were clear. https://youtu.be/ajeTYqhRHno?si=VyviZUkeWp9z06D5
+This video was used to clear our concept of Deep learning. As this topic
+was not in our syllabus so as to learn the basics and have a idea of the
+logic this particular video was used. https://youtu.be/NZde8Xt78Iw?si=ipWZx9ZLnt5fSQrs
+This video was the example we took to make our project. It was used to
+give us the different ways we can do so.The youtube channel Murtaza
+workshop is widely famous to teach different algorithms for different
+purposes.We learned the algorithm of CNN (Convolutional neural
+network) from this video. Code source- The main code was written by us.We took the idea from
+different YouTube videos and step by step we were correcting our
+mistakes and learning accordingly. We used some other code help to get
+the Idea of algorithm of which GitHub repository link will be given below. We also used chatgpt to identify the error and finding alternatives ways.
+The main websites we used for our data to get trained and converted
+into keras (that was used to convert model) was Google Teachable
+Machine. It helped our model to get the access of Deep learning .So
+that it can improvise the result during the live video. Differentiation- The most crucial point of our model that makes our
+project different from other is that our data set is not been derived
+from any third-party website or platform.Each data set is been given by
+us by individually capturing the pictures of every sign with hand
+recognition points on it. Then the images were converted into keras
+and then models which helps to detect signs. Parts-There was not any other parts that were required by our project
+other than laptop and a camera. Git-hub repo link-> https://github.com/PriyanshChhabra0316/Sign- Language-detection
+Thanking you, Harsh israni.
